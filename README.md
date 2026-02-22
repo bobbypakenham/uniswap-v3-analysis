@@ -1,4 +1,4 @@
-# Uniswap V3 — Trading Activity Analysis
+# Uniswap V3 - Trading Activity Analysis
 
 On-chain analysis of Uniswap V3 trading activity across 10+ blockchains 
 over the last 90 days, built using SQL on Dune Analytics.
